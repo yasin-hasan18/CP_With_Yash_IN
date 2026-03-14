@@ -1,4 +1,4 @@
-//! In The Name Of Allah
+//! In The Name Of Allah.
 
 #include<bits/stdc++.h>
 using namespace std;
